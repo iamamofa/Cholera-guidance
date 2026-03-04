@@ -58,9 +58,9 @@ Cholera remains one of the most significant infectious disease threats globally,
 
 This document is a **living resource**. Contributions are welcomed from the global public health and genomics communities.
 
-1. Open a [GitHub Issue](https://github.com/pha4ge/cholera-guidance/issues) to propose changes
-2. Submit a [Pull Request](https://github.com/pha4ge/cholera-guidance/pulls) with modifications
-3. Join the PHA4GE Cholera Genomics Working Group at [pha4ge.org](https://pha4ge.org)
+1. Open a [GitHub Issue](#) to propose changes
+2. Submit a [Pull Request](#) with modifications
+3. Join the Pipeines and Visualization Working Group at [pha4ge.org](https://pha4ge.org)
 
 ---
 ## Current guidance documents 
