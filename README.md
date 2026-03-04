@@ -5,8 +5,9 @@
 
 **Version:** 1.0 | **Published:** March 2026 | **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **Working Group:** PHA4GE Cholera Genomics Working Group  
-> **How to cite:** PHA4GE Cholera Genomics Working Group (2026). *Vibrio cholerae Genomic Surveillance: A PHA4GE Best Practices Guidance Document*. https://pha4ge.org/cholera-guidance
+> **Working Group:** PHA4GE Pipelines and Visualization Group  
+> **How to cite:** PHA4GE Pipelines and Visualization Group (2026). *Vibrio cholerae Genomic Surveillance: A PHA4GE Best Practices Guidance Document*.
+ https://pha4ge.org/cholera-guidance
 
 ---
 
