@@ -64,10 +64,10 @@ This document is a **living resource**. Contributions are welcomed from the glob
 
 ---
 ## Current guidance documents 
-- [Surveillance Strategies](guidance_docs/SurveillanceStrategies-GuidanceDoc.md)
-- [Data Analysis](guidance_docs/DataAnalysis-GuidanceDoc.md)
-- [Data Sharing](guidance_docs/DataSharing-GuidanceDoc.md)
-- [Ethics and Legality](guidance_docs/EthicsAndLegality-GuidanceDoc.md)
+- [Surveillance Strategies](https://github.com/pha4ge/wastewater-guidance/blob/main/guidance_docs/SurveillanceStrategies-GuidanceDoc.md)
+- [Data Analysis](https://github.com/pha4ge/wastewater-guidance/blob/main/guidance_docs/DataAnalysis-GuidanceDoc.md)
+- [Data Sharing](https://github.com/pha4ge/wastewater-guidance/blob/main/guidance_docs/DataSharing-GuidanceDoc.md)
+- [Ethics and Legality](https://github.com/pha4ge/wastewater-guidance/blob/main/guidance_docs/EthicsAndLegality-GuidanceDoc.md)
 
 ---
 
