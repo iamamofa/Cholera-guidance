@@ -1,6 +1,6 @@
 # 02 · Biology of *Vibrio cholerae*
 
-[← Introduction](01-introduction.md) | [Home](../README.md) | [Next: Epidemiology →](03_epidemiology.md)
+[← Introduction](01_introduction.md) | [Home](../README.md) | [Next: Epidemiology →](03_epidemiology.md)
 
 ---
 
@@ -149,6 +149,6 @@ This cycle explains why both `ctxAB` AND `tcpA` must be present for epidemic pot
 
 ---
 
-[← Introduction](01-introduction.md) | [Home](../README.md) | [Next: Epidemiology →](03_epidemiology.md)
+[← Introduction](01_introduction.md) | [Home](../README.md) | [Next: Epidemiology →](03_epidemiology.md)
 
 *Licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · PHA4GE Cholera Genomics Working Group*
