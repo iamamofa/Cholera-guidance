@@ -23,10 +23,10 @@ Cholera remains one of the most significant infectious disease threats globally,
 
 | # | Page | Description |
 |---|------|-------------|
-| 01 | [Introduction & Scope](docs/01-introduction.md) | Purpose, target audience, scope and how to use this document |
-| 02 | [Biology of *Vibrio cholerae*](docs/02-biology.md) | Taxonomy, morphology, virulence mechanisms, ecology |
-| 03 | [Epidemiology of Cholera](docs/03-epidemiology.md) | Global burden, geographic distribution, transmission dynamics |
-| 04 | [Genomics of *V. cholerae*](docs/04-genomics.md) | Genome architecture, key genomic elements, pandemic lineage |
+| 01 | [Introduction & Scope](guidance_docs/01_introduction.md) | Purpose, target audience, scope and how to use this document |
+| 02 | [Biology of *Vibrio cholerae*](guidance_docs/02_biology.md) | Taxonomy, morphology, virulence mechanisms, ecology |
+| 03 | [Epidemiology of Cholera](guidance_docs/03_epidemiology.md) | Global burden, geographic distribution, transmission dynamics |
+| 04 | [Genomics of *V. cholerae*](guidance_docs/04_genomics.md) | Genome architecture, key genomic elements, pandemic lineage |
 | 05 | [Why Bioinformatics Is Essential](docs/05-why-bioinformatics.md) | Limitations of traditional methods, what WGS enables |
 | 06 | [Why PHA4GE Needs to Lead](docs/06-pha4ge-standards.md) | Standards, best practices, community coordination |
 | 07 | [Laboratory Prerequisites & Sequencing](docs/07-laboratory.md) | Biosafety, isolation, DNA extraction, sequencing platforms |
@@ -48,9 +48,9 @@ Cholera remains one of the most significant infectious disease threats globally,
 
 ## Case Studies
 
-- **Haiti 2022** — Resurgence of cholera after apparent elimination; imported wave 3 strain
-- **Zimbabwe 2018** — Multi-drug resistant O1 El Tor outbreak with SXT ICE characterisation
-- **Yemen 2016–present** — Largest recorded cholera outbreak in history; conflict-driven transmission
+- [**Haiti 2022**](case_studies/01-haiti.md) — Resurgence of cholera after apparent elimination; imported wave 3 strain
+- [**Zimbabwe 2018**](case_studies/02-zimbabwe.md) — Multi-drug resistant O1 El Tor outbreak with SXT ICE characterisation
+- [**Yemen 2016–present**](case_studies/03-yemen.md) — Largest recorded cholera outbreak in history; conflict-driven transmission
 
 ---
 
