@@ -60,7 +60,7 @@ This document is a **living resource**. Contributions are welcomed from the glob
 
 1. Open a [GitHub Issue](#) to propose changes
 2. Submit a [Pull Request](#) with modifications
-3. Join the Pipeines and Visualization Working Group at [pha4ge.org](https://pha4ge.org)
+3. Join the Pipeines and Visualization Working Group at [pha4ge.org](https://pha4ge.org/working-groups/)
 
 ---
 ## Current guidance documents 
