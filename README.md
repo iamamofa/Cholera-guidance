@@ -63,6 +63,13 @@ This document is a **living resource**. Contributions are welcomed from the glob
 3. Join the PHA4GE Cholera Genomics Working Group at [pha4ge.org](https://pha4ge.org)
 
 ---
+## Current guidance documents 
+- [Surveillance Strategies](guidance_docs/SurveillanceStrategies-GuidanceDoc.md)
+- [Data Analysis](guidance_docs/DataAnalysis-GuidanceDoc.md)
+- [Data Sharing](guidance_docs/DataSharing-GuidanceDoc.md)
+- [Ethics and Legality](guidance_docs/EthicsAndLegality-GuidanceDoc.md)
+
+---
 
 ## Quick Links
 
@@ -75,4 +82,12 @@ This document is a **living resource**. Contributions are welcomed from the glob
 
 ---
 
-*Licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · Built by the PHA4GE Cholera Genomics Working Group*
+
+*Licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · Built by the PHA4GE Pipelines and Visualization Working Group*
+
+---
+Contributing
+============
+These documents are intended as a live, open community resource and contributions to the documents are more than welcome. To propose a change, we recommend making a GitHub Issue ([here](https://github.com/pha4ge/)) for this public repository describing the requested modifications and/or additions. Alternatively, if you're interested in making a requested change yourself, please go ahead and open a pull-request with the proposed changes. We'll work to incorporate these suggestions as quickly as possible, in accordance with PHA4GE group member recommendations. 
+
+If you're interested in becoming part of our group please free to join as a member of [PHA4GE](https://pha4ge.org/about/). Our working group meets bi-weekly on Thursdays. 
