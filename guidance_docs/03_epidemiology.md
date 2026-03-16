@@ -153,4 +153,4 @@ Genomic surveillance is explicitly embedded in GTFCC's enhanced surveillance fra
 
 [← Biology](02_biology.md) | [Home](../README.md) | [Next: Genomics →](04_genomics.md)
 
-*Licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · PHA4GE Cholera Genomics Working Group*
+*Licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · PHA4GE Pipelines and Visualisation Working Group*
